@@ -64,3 +64,5 @@ Windivs is also not "yet another OS." It does not attempt to be a third player l
 More information is available at: windivs.org.
 
 Also see the media/doc subdirectory for some sparse notes.
+
+>>>  dll/ntdll/ldr/ldrutils.c
